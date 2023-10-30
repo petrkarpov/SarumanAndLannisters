@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d1390d-24bb-4573-b779-5d98c3591fa9" name="Changes" comment="Saruman and Lannisters">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="b1d1390d-24bb-4573-b779-5d98c3591fa9" name="Changes" comment="Saruman and Lannisters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,47 @@
       <option name="project" value="LOCAL" />
       <updated>1698706034351</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Saruman and Lannisters">
+      <option name="closed" value="true" />
+      <created>1698706209531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698706209531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Saruman and Lannisters">
+      <option name="closed" value="true" />
+      <created>1698706236197</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698706236197</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Saruman and Lannisters">
+      <option name="closed" value="true" />
+      <created>1698706288108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698706288108</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Saruman and Lannisters">
+      <option name="closed" value="true" />
+      <created>1698706426572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698706426572</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Saruman and Lannisters">
+      <option name="closed" value="true" />
+      <created>1698706452806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698706452806</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
